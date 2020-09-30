@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Orelson/react-marius/static/css/main.328ab505.chunk.css",
+    "main.js": "/Orelson/react-marius/static/js/main.d076d6bd.chunk.js",
+    "main.js.map": "/Orelson/react-marius/static/js/main.d076d6bd.chunk.js.map",
+    "runtime-main.js": "/Orelson/react-marius/static/js/runtime-main.ecd49a29.js",
+    "runtime-main.js.map": "/Orelson/react-marius/static/js/runtime-main.ecd49a29.js.map",
+    "static/js/2.046cbce2.chunk.js": "/Orelson/react-marius/static/js/2.046cbce2.chunk.js",
+    "static/js/2.046cbce2.chunk.js.map": "/Orelson/react-marius/static/js/2.046cbce2.chunk.js.map",
+    "index.html": "/Orelson/react-marius/index.html",
+    "precache-manifest.2509666e30e283eee5ee88097fbf8ced.js": "/Orelson/react-marius/precache-manifest.2509666e30e283eee5ee88097fbf8ced.js",
+    "service-worker.js": "/Orelson/react-marius/service-worker.js",
+    "static/css/main.328ab505.chunk.css.map": "/Orelson/react-marius/static/css/main.328ab505.chunk.css.map",
+    "static/js/2.046cbce2.chunk.js.LICENSE.txt": "/Orelson/react-marius/static/js/2.046cbce2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd49a29.js",
+    "static/js/2.046cbce2.chunk.js",
+    "static/css/main.328ab505.chunk.css",
+    "static/js/main.d076d6bd.chunk.js"
+  ]
+}
